@@ -95,6 +95,8 @@
     position:absolute;
 }
 
-.bg-img-soon {
-    width: fit-content;
+img.img-propia {
+    width: 100%;
+    height: auto;
+    
 }
