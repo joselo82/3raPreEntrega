@@ -81,28 +81,16 @@
     padding: 10px;
 }
 
-@media (max-width: 500px) { /* hasta... */
-    .box-responsive {
-        background-color: blue;
-        color: white;
-        
-    }
-    .box-responsive p {
-        display: none;
-    }
-    
-}
 .video-responsive {
-	height: 0;
-	overflow: hidden;
-	padding-bottom: 56.25%;
-	padding-top: 30px;
-	position: relative;
-	}
-.video-responsive iframe, .video-responsive object, .video-responsive embed {
-	height: 50%;
-	left: 0;
-	position: absolute;
-	top: 0;
-	width: 50%;
-	}
+    overflow:hidden;
+    padding-bottom:400px; /* Adecua este valor para controlar la altura del video */
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:35%;
+    top:0;
+    height:100%;
+    width:30%;
+    position:absolute;
+}
