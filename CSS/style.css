@@ -85,6 +85,8 @@
     .box-responsive {
         background-color: blue;
         color: white;
+        width="200";
+        height="400";
     }
     .box-responsive p {
         display: none;
