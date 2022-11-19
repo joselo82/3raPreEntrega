@@ -95,8 +95,8 @@
     position:absolute;
 }
 
-img.img-propia {
-    width: 50%;
+#principal img.img-propia {
+    width: 100%;
     height: auto;
     
 }
