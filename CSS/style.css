@@ -135,6 +135,6 @@ div.parrafo {
 }
 @media screen and (max-width: 600px) {
     div.parrafo {
-      font-size: 15px;
+      font-size: 18px;
     }
 }
