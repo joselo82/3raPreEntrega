@@ -7,34 +7,6 @@
     background-color: black;
 }
 
-/* ------------------------------------------------------------------------------------------------------------------------- */
-/* le doy estilo al titulo principal y texto */
-/* ------------------------------------------------------------------------------------------------------------------------- */
-
-#principal .titulo-principal {
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-    font-size: 40px;
-    font-weight: 400;
-    /* font-style: italic; */
-    text-align: center;
-    line-height: 2;
-    letter-spacing: 10px;
-    color: rgb(211, 226, 0);
-    background-color: black; 
-}
-
-#principal .texto-principal {
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-    font-size: 30px;
-    font-weight: 400;
-    /* font-style: italic; */
-    text-align: center;
-    line-height: 2;
-    letter-spacing: 10px;
-    color: rgb(114, 90, 90);
-    background-color: black;  
-}
-
 /* -------------------------------------------------------------------------------------------------------- */
 /* le doy estilo a la seccion dentro de la pagina "KnownOrigin" que muestra un titulo y un video de youtube */
 /* -------------------------------------------------------------------------------------------------------- */
@@ -76,6 +48,7 @@
 #footer p {
     color: brown;
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-size: 20px;
     text-align: center;
     line-height: 2;
     padding: 10px;
