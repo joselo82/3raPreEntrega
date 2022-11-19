@@ -105,34 +105,22 @@
     width: 100%;
     height: auto;
   }
-#principal .soon {
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-    font-size: 40px;
-    /* font-weight: 100; */
-    /* font-style: italic; */
-    text-align: center;
-    font-size: calc(1rem + 1vw);
-    /* line-height: 4; */
-    letter-spacing: 10px;
-    color: rgb(211, 226, 0);
-    background-blend-mode: lighten;  
-}
-div.text-responsive {
+
+div.soon {
     color: rgb(211, 226, 0);
     padding: 20px;
-    align-content: center;
   }
   
-  @media screen and (min-width: 601px) {
-    div.text-reponsive {
+@media screen and (min-width: 601px) {
+    div.soon {
       font-size: 80px;
       color: rgb(211, 226, 0);
     }
-  }
+}
   
-  @media screen and (max-width: 600px) {
-    div.text-reponsive {
+@media screen and (max-width: 600px) {
+    div.soon {
       font-size: 30px;
       color: rgb(211, 226, 0);
     }
-  }
+}
