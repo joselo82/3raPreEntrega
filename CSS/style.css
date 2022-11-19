@@ -81,7 +81,7 @@
     padding: 10px;
 }
 
-@media (max-width: 576px) { /* hasta... */
+@media (max-width: 500px) { /* hasta... */
     .box-responsive {
         background-color: blue;
         color: white;
