@@ -117,4 +117,22 @@
     color: rgb(211, 226, 0);
     background-blend-mode: lighten;  
 }
-
+div.text-responsive {
+    color: rgb(211, 226, 0);
+    padding: 20px;
+    align-content: center;
+  }
+  
+  @media screen and (min-width: 601px) {
+    div.text-reponsive {
+      font-size: 80px;
+      color: rgb(211, 226, 0);
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    div.text-reponsive {
+      font-size: 30px;
+      color: rgb(211, 226, 0);
+    }
+  }
