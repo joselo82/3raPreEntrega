@@ -2,7 +2,6 @@
 // responsive del video de Youtube 
 // ---------------------------------
 
-
 .video-responsive {
     overflow:hidden;
     padding-bottom:400px; /* Adecua este valor para controlar la altura del video */
@@ -16,17 +15,6 @@
     width:50%;
     position:absolute;
 }
-
-// ----------------------------------------------------------------------------------- 
-// responsive para la imagen de las paginas Opensea, Makersplace, Foundation y Contact 
-// ----------------------------------------------------------------------------------- 
-
-
-.img-propia {
-    width: 100%;
-    height: auto;
-  }
-
 
 // ------------------------------------------------------------------------------ 
 // responsive para cambio de tamaños de fuente en los textos (titulos y parrafos) 
