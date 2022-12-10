@@ -1,4 +1,4 @@
 # 3ra Pre Entrega Proyecto Final
-## Se agrega el contenido en todas las paginas
+## Se agregan todos los archivos scss
 
 **Coderhouse**
