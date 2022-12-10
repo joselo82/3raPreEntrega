@@ -1,10 +1,8 @@
-// --------------------------------- 
 // responsive del video de Youtube 
-// ---------------------------------
 
 .video-responsive {
     overflow:hidden;
-    padding-bottom:400px; /* Adecua este valor para controlar la altura del video */
+    padding-bottom:400px;
     position:relative;
     height:0;
 }
@@ -16,11 +14,8 @@
     position:absolute;
 }
 
-// ------------------------------------------------------------------------------ 
 // responsive para cambio de tamaños de fuente en los textos (titulos y parrafos) 
-// ------------------------------------------------------------------------------ 
-
-
+ 
 div.titulo {
     color: rgb(211, 226, 0);
     padding: 20px;
@@ -41,6 +36,7 @@ div.titulo {
 div.parrafo {
     color: rgb(68, 59, 59);
     padding: 10px;
+    margin: 10px 70px;
   }
   
 @media screen and (min-width: 601px) {
